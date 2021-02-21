@@ -28,7 +28,7 @@ You can see the analysis here to answer the questions above.
 
 There is 1 notebook available here to showcase work related to the above questions.  The notebook is exploratory in searching through the data pertaining to the questions.  Markdown cells were used to assist in walking through the thought process for individual steps.  
 
-There is a piece of code to obtain the model used to predict salary.
+There is a piece of code to obtain the model used to predict price.
 
 ## Results<a name="results"></a>
 
